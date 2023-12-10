@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Marek</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🌱 I’m currently learning **Python, Flask**
+- 🔭 I’m currently working on [Chat app](https://github.com/M4recki/Chat-app)
 
-- 📝 I regularly write articles on [https://progr4mmingskillz.blogspot.com](https://progr4mmingskillz.blogspot.com)
+- 🌱 I’m currently learning **Fast API**
+
+- 👨‍💻 All of my projects are available at [https://github.com/M4recki?tab=repositories](https://github.com/M4recki?tab=repositories)
+
+- 📝 I regularly write articles on [https://progr4mmingskillz.blogspot.com/](https://progr4mmingskillz.blogspot.com/)
 
 - 📫 How to reach me **MARBARA93@edu.lublin.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marek barański" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marek barański" height="30" width="40" /></a>
-<a href="https://www.facebook.com/marek.baranski.902/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="marek barański" height="30" width="40" /></a>
+<a href="https://fb.com/marek barański" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marek barański" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
